@@ -23,8 +23,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const header = document.getElementById('header');
     header.innerHTML = `
         <header>
-            <a href="/" class="logo-container">
-                <div class="logo"><img src="/assets/images/logo.webp" alt="Luckshots Logo"></div>
+            <a href="/" class="logo-container" aria-label="Go to homepage">
+                <picture>
+                    <source srcset="/assets/images/logo.webp" type="image/webp">
+                    <img src="/assets/images/logo.png" alt="Luckshots Logo" class="logo">
+                </picture>
                 <span>Luckshots</span>
             </a>
             <button class="hamburger">☰</button>
@@ -60,7 +63,10 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="footer-columns">
                 <div class="footer-column">
                     <div class="logo-container2">
-                        <div class="logo"><img src="/assets/images/logo.webp" alt="Luckshots Logo"></div>
+                        <picture>
+                            <source srcset="/assets/images/logo.webp" type="image/webp">
+                            <img src="/assets/images/logo.png" alt="Luckshots Logo" class="logo">
+                        </picture>
                         <h3>Luckshots</h3>
                     </div>
                     <div class="social-icons2">
