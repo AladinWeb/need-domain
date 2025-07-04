@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
     header.innerHTML = `
         <header>
             <a href="/" class="logo-container">
-                <div class="logo"><img src="/assets/images/logo-webp" alt="Luckshots Logo"></div>
+                <div class="logo"><img src="/assets/images/logo.webp" alt="Luckshots Logo"></div>
                 <span>Luckshots</span>
             </a>
             <button class="hamburger">☰</button>
@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="footer-columns">
                 <div class="footer-column">
                     <div class="logo-container2">
-                        <div class="logo"><img src="/assets/images/logo-webp" alt="Luckshots Logo"></div>
+                        <div class="logo"><img src="/assets/images/logo.webp" alt="Luckshots Logo"></div>
                         <h3>Luckshots</h3>
                     </div>
                     <div class="social-icons2">
