@@ -24,8 +24,8 @@ document.addEventListener('DOMContentLoaded', () => {
     header.innerHTML = `
         <header>
             <a href="/" class="logo-container">
-                <div class="logo"></div>
-                <span>FeatureHub</span>
+                <div class="logo"><img src="/assets/images/logo-webp" alt="Luckshots Logo"></div>
+                <span>Luckshots</span>
             </a>
             <button class="hamburger">☰</button>
             <nav>
@@ -60,8 +60,8 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="footer-columns">
                 <div class="footer-column">
                     <div class="logo-container2">
-                        <div class="logo"></div>
-                        <h3>FeatureHub</h3>
+                        <div class="logo"><img src="/assets/images/logo-webp" alt="Luckshots Logo"></div>
+                        <h3>Luckshots</h3>
                     </div>
                     <div class="social-icons2">
                         <a href="#" class="social-icon facebook-icon"><i class="fab fa-facebook-f"></i></a>
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <a href="#" class="social-icon telegram-icon"><i class="fab fa-telegram-plane"></i></a>
                         <a href="#" class="social-icon linkedin-icon"><i class="fab fa-linkedin-in"></i></a>
                     </div>
-                    <p>FeatureHub provides insights, analysis, and solutions to empower businesses in the digital age.</p>
+                    <p>Luckshots provides insights, analysis, and solutions to empower businesses in the digital age.</p>
                 </div>
                 <div class="footer-column">
                     <h3>Useful Links</h3>
