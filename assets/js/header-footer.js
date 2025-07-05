@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
     subheader.innerHTML = `
         <div class="subheader-content">
             <div class="contact-info">
-                <p><i class="fas fa-phone"></i> <a href="tel:+63 999 869 3626">+63 999 869 3626</a></p>
-                <p><i class="fas fa-envelope"></i> <a href="mailto:connected@allworldseodigitalmarketingsolutions.com">connected@allworldseodigitalmarketingsolutions.com</a></p>
+                <p><i class="fas fa-phone"></i> <a href="tel:+63 999 869 3626" id="phoneLink">+63 999 869...</a></p>
+                <p><i class="fas fa-envelope"></i> <a href="mailto:connected@allworldseodigitalmarketingsolutions.com" id="emailLink">connected@al...</a></p>
             </div>
             <div class="social-icons">
                 <a href="https://www.facebook.com/allworldseodigitalmarketingsolutions/" target="_blank" class="social-icon facebook-icon"><i class="fab fa-facebook-f"></i></a>
@@ -206,4 +206,23 @@ document.addEventListener('DOMContentLoaded', () => {
             alert('Please fill out all fields before submitting.');
         }
     });
+
+    // Truncate contact info for mobile
+    function truncateForMobile() {
+        const isMobile = window.innerWidth <= 768; // Adjust breakpoint as needed
+        const phoneLink = document.getElementById('phoneLink');
+        const emailLink = document.getElementById('emailLink');
+
+        if (isMobile) {
+            phoneLink.textContent = '+63 999 869...' + phoneLink.href.slice(-4); // Show first 11 chars + last 4
+            emailLink.textContent = 'connected@al...' + emailLink.href.split('@')[1].slice(0, 5); // Show first 11 chars + part of domain
+        } else {
+            phoneLink.textContent = phoneLink.href.replace('tel:', '');
+            emailLink.textContent = emailLink.href.replace('mailto:', '');
+        }
+    }
+
+    // Run on load and resize
+    truncateForMobile();
+    window.addEventListener('resize', truncateForMobile);
 });

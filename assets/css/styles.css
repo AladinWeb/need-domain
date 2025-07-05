@@ -548,6 +548,13 @@ footer {
         margin-bottom: 15px;
     }
 
+    .contact-info a {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        max-width: 100px; /* Adjust as needed */
+    }
+
     .social-icons {
         gap: 1rem;
     }
