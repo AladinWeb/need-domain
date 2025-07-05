@@ -551,6 +551,7 @@ footer {
     .contact-info a {
         overflow: hidden;
         text-overflow: ellipsis;
+        gap: 0.5rem;
         max-width: 100px; /* Adjust as needed */
     }
 
