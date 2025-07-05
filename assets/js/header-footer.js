@@ -9,11 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p><i class="fas fa-envelope"></i> <a href="mailto:connected@allworldseodigitalmarketingsolutions.com">connected@allworldseodigitalmarketingsolutions.com</a></p>
             </div>
             <div class="social-icons">
-                <a href="#" class="social-icon facebook-icon"><i class="fab fa-facebook-f"></i></a>
-                <a href="#" class="social-icon x-icon"><i class="fab fa-x-twitter"></i></a>
+                <a href="https://www.facebook.com/allworldseodigitalmarketingsolutions/" target="_blank" class="social-icon facebook-icon"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://x.com/AllWorldSEOPH" target="_blank" class="social-icon x-icon"><i class="fab fa-x-twitter"></i></a>
                 <a href="#" class="social-icon youtube-icon"><i class="fab fa-youtube"></i></a>
                 <a href="#" class="social-icon telegram-icon"><i class="fab fa-telegram-plane"></i></a>
-                <a href="#" class="social-icon linkedin-icon"><i class="fab fa-linkedin-in"></i></a>
+                <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFXGjokbPo0NQAAAZfZ7cXAGEbeYJeHjQ-M0YXfIyCSIxIjlBjgVpp5IeWkcL2H30BaR5pXfDsBLjhII-nyC3ptyyipSQXSbSBIf077mCG_Ccrsf3vqrRqksCrmqbdvlN4bOHs=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fallworld-seo-digital-marketing-solutions%2F" target="_blank" class="social-icon linkedin-icon"><i class="fab fa-linkedin-in"></i></a>
             </div>
         </div>
     `;
@@ -32,9 +32,9 @@ document.addEventListener('DOMContentLoaded', () => {
             </a>
             <button class="hamburger">☰</button>
             <nav>
-                <a href="/blogs.html">Blogs</a>
-                <a href="/analysis.html">Analysis</a>
-                <a href="/solutions.html">Solutions</a>
+                <a href="/blogs">Blogs</a>
+                <a href="/analysis">Analysis</a>
+                <a href="/solutions">Solutions</a>
             </nav>
         </header>
     `;
@@ -70,11 +70,11 @@ document.addEventListener('DOMContentLoaded', () => {
                         <h3>Luckshots</h3>
                     </div>
                     <div class="social-icons2">
-                        <a href="#" class="social-icon facebook-icon"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="social-icon x-icon"><i class="fab fa-x-twitter"></i></a>
+                        <a href="https://www.facebook.com/allworldseodigitalmarketingsolutions/" target="_blank" class="social-icon facebook-icon"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://x.com/AllWorldSEOPH" target="_blank" class="social-icon x-icon"><i class="fab fa-x-twitter"></i></a>
                         <a href="#" class="social-icon youtube-icon"><i class="fab fa-youtube"></i></a>
                         <a href="#" class="social-icon telegram-icon"><i class="fab fa-telegram-plane"></i></a>
-                        <a href="#" class="social-icon linkedin-icon"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFXGjokbPo0NQAAAZfZ7cXAGEbeYJeHjQ-M0YXfIyCSIxIjlBjgVpp5IeWkcL2H30BaR5pXfDsBLjhII-nyC3ptyyipSQXSbSBIf077mCG_Ccrsf3vqrRqksCrmqbdvlN4bOHs=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fallworld-seo-digital-marketing-solutions%2F" target="_blank" class="social-icon linkedin-icon"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                     <p>Luckshots delivers cutting-edge insights and innovative solutions to empower businesses worldwide in the digital era. Managed by AllWorld SEO, our Bulacan-based team supports clients locally and internationally.</p>
                 </div>
@@ -82,18 +82,18 @@ document.addEventListener('DOMContentLoaded', () => {
                     <h3>Useful Links</h3>
                     <ul>
                         <li><a href="/">Home</a></li>
-                        <li><a href="/about.html">About</a></li>
+                        <li><a href="/about">About</a></li>
                         <li><a href="#">Services</a></li>
-                        <li><a href="/blogs.html">Blog</a></li>
+                        <li><a href="/blogs">Blog</a></li>
                     </ul>
                 </div>
                 <div class="footer-column">
                     <h3>Additional Links</h3>
                     <ul>
-                        <li><a href="/privacy-policy.html">Privacy Policy</a></li>
-                        <li><a href="/terms-of-service.html">Terms of Service</a></li>
-                        <li><a href="/faq.html">FAQs</a></li>
-                        <li><a href="/contact-us.html">Support</a></li>
+                        <li><a href="/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="/terms-of-service">Terms of Service</a></li>
+                        <li><a href="/faq">FAQs</a></li>
+                        <li><a href="/contact-us">Support</a></li>
                     </ul>
                 </div>
                 <div class="footer-column">
