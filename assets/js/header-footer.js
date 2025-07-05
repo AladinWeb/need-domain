@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
     subheader.innerHTML = `
         <div class="subheader-content">
             <div class="contact-info">
-                <p><i class="fas fa-phone"></i> <a href="tel:+15551234567">(555) 123-4567</a></p>
-                <p><i class="fas fa-envelope"></i> <a href="mailto:support@featurehub.com">support@featurehub.com</a></p>
+                <p><i class="fas fa-phone"></i> <a href="tel:+63 999 869 3626">+63 999 869 3626</a></p>
+                <p><i class="fas fa-envelope"></i> <a href="mailto:connected@allworldseodigitalmarketingsolutions.com">connected@allworldseodigitalmarketingsolutions.com</a></p>
             </div>
             <div class="social-icons">
                 <a href="#" class="social-icon facebook-icon"><i class="fab fa-facebook-f"></i></a>
@@ -172,11 +172,38 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Contact Form Functionality (Simulated)
+    // Contact Form Functionality (Real)
+    const script = document.createElement('script');
+    script.src = 'https://cdn.emailjs.com/dist/email.min.js';
+    script.onload = () => {
+        emailjs.init('YOUR_USER_ID'); // Replace with your EmailJS User ID
+    };
+    document.head.appendChild(script);
+
     const contactForm = document.getElementById('contactForm');
     contactForm.addEventListener('submit', (event) => {
-        event.preventDefault(); // Prevent form submission
-        alert('Message sent successfully! (Simulation only, no email sent)'); // Simulated feedback
-        contactForm.reset(); // Clear the form fields
+        event.preventDefault();
+
+        const name = contactForm.querySelector('input[placeholder="Name"]').value;
+        const email = contactForm.querySelector('input[placeholder="Email"]').value;
+        const message = contactForm.querySelector('textarea[placeholder="Message"]').value;
+
+        if (name && email && message) {
+            emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', {
+                name: name,
+                email: email,
+                message: message,
+                reply_to: email
+            })
+            .then(function(response) {
+                alert('Thank you, ' + name + '! Your message has been sent successfully to connected@allworldseodigitalmarketingsolutions.com. We’ll get back to you soon.');
+                contactForm.reset();
+            }, function(error) {
+                alert('Failed to send the message. Please try again or email us at connected@allworldseodigitalmarketingsolutions.com.');
+                console.error('EmailJS error:', error);
+            });
+        } else {
+            alert('Please fill out all fields before submitting.');
+        }
     });
 });
