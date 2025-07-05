@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/data/
+Disallow: /assets/images/
+Disallow: /assets/js/
+Disallow: /assets/css/
+Sitemap: https://luckshots.com/sitemap.xml
