@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <a href="#" class="social-icon telegram-icon"><i class="fab fa-telegram-plane"></i></a>
                         <a href="#" class="social-icon linkedin-icon"><i class="fab fa-linkedin-in"></i></a>
                     </div>
-                    <p>Luckshots delivers cutting-edge insights and innovative solutions to empower businesses worldwide in the digital era. Managed by AllWorld SEO and handled by John Paul Pajaro, our Bulacan-based team supports clients locally and internationally.</p>
+                    <p>Luckshots delivers cutting-edge insights and innovative solutions to empower businesses worldwide in the digital era. Managed by AllWorld SEO, our Bulacan-based team supports clients locally and internationally.</p>
                 </div>
                 <div class="footer-column">
                     <h3>Useful Links</h3>
