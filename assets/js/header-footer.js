@@ -9,10 +9,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p><i class="fas fa-envelope"></i> <a href="mailto:connected@allworldseodigitalmarketingsolutions.com" id="emailLink">connected@al...</a></p>
             </div>
             <div class="social-icons">
-                <a href="https://www.facebook.com/allworldseodigitalmarketingsolutions/" target="_blank" class="social-icon facebook-icon"><i class="fab fa-facebook-f"></i></a>
-                <a href="https://x.com/AllWorldSEOPH" target="_blank" class="social-icon x-icon"><i class="fab fa-x-twitter"></i></a>
-                <a href="https://www.youtube.com/@allworldtv8990" target="_blank" class="social-icon youtube-icon"><i class="fab fa-youtube"></i></a>
-                <a href="#" class="social-icon telegram-icon"><i class="fab fa-telegram-plane"></i></a>
+                <a href="https://www.facebook.com/allworldseodigitalmarketingsolutions/" target="_blank" class="social-icon facebook-icon"><i class="fab fa-facebook-f" alt="Facebook Icon"></i></a>
+                <a href="https://x.com/AllWorldSEOPH" target="_blank" class="social-icon x-icon"><i class="fab fa-x-twitter" alt="Twitter Icon"></i></a>
+                <a href="https://www.youtube.com/@allworldtv8990" target="_blank" class="social-icon youtube-icon"><i class="fab fa-youtube" alt="YouTube Icon"></i></a>
+                <a href="#" class="social-icon telegram-icon"><i class="fab fa-telegram-plane" alt="Telegram Icon"></i></a>
                 <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFXGjokbPo0NQAAAZfZ7cXAGEbeYJeHjQ-M0YXfIyCSIxIjlBjgVpp5IeWkcL2H30BaR5pXfDsBLjhII-nyC3ptyyipSQXSbSBIf077mCG_Ccrsf3vqrRqksCrmqbdvlN4bOHs=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fallworld-seo-digital-marketing-solutions%2F" target="_blank" class="social-icon linkedin-icon"><i class="fab fa-linkedin-in"></i></a>
             </div>
         </div>
@@ -70,10 +70,10 @@ document.addEventListener('DOMContentLoaded', () => {
                         <h3>Luckshots</h3>
                     </div>
                     <div class="social-icons2">
-                        <a href="https://www.facebook.com/allworldseodigitalmarketingsolutions/" target="_blank" class="social-icon facebook-icon"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://x.com/AllWorldSEOPH" target="_blank" class="social-icon x-icon"><i class="fab fa-x-twitter"></i></a>
-                        <a href="https://www.youtube.com/@allworldtv8990" target="_blank" class="social-icon youtube-icon"><i class="fab fa-youtube"></i></a>
-                        <a href="#" class="social-icon telegram-icon"><i class="fab fa-telegram-plane"></i></a>
+                        <a href="https://www.facebook.com/allworldseodigitalmarketingsolutions/" target="_blank" class="social-icon facebook-icon"><i class="fab fa-facebook-f" alt="Facebook Icon"></i></a>
+                        <a href="https://x.com/AllWorldSEOPH" target="_blank" class="social-icon x-icon"><i class="fab fa-x-twitter" alt="Twitter Icon"></i></a>
+                        <a href="https://www.youtube.com/@allworldtv8990" target="_blank" class="social-icon youtube-icon"><i class="fab fa-youtube" alt="YouTube Icon"></i></a>
+                        <a href="#" class="social-icon telegram-icon"><i class="fab fa-telegram-plane" alt="Telegram Icon"></i></a>
                         <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFXGjokbPo0NQAAAZfZ7cXAGEbeYJeHjQ-M0YXfIyCSIxIjlBjgVpp5IeWkcL2H30BaR5pXfDsBLjhII-nyC3ptyyipSQXSbSBIf077mCG_Ccrsf3vqrRqksCrmqbdvlN4bOHs=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fallworld-seo-digital-marketing-solutions%2F" target="_blank" class="social-icon linkedin-icon"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                     <p>Luckshots delivers cutting-edge insights and innovative solutions to empower businesses worldwide in the digital era. Managed by AllWorld SEO, our Bulacan-based team supports clients locally and internationally.</p>
