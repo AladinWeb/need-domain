@@ -2,8 +2,14 @@
 RewriteEngine On
 RewriteBase /
 
-# Remove .html extension internally
+# Internally rewrite to .html if it exists
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.*)$ $1.html [L]
+
+# Otherwise, redirect to homepage
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.html !-f
+RewriteRule ^.*$ / [L,R=301]
