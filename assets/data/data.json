@@ -1,6 +1,14 @@
 {
   "blogs": [
     {
+      "title": "Best Towns Near Nashville for Your 2025 Adventure",
+      "text": "Explore the best towns around Nashville in 2025 for your next adventure, from Franklin’s historic charm to Leiper’s Fork’s rustic appeal, with insights from Nashville Experience Tours.",
+      "date": "July 15, 2025",
+      "author": "Emma Rivera",
+      "image": "/assets/images/nashville-towns-adventure-2025",
+      "link": "/blogs/nashville-towns-adventure-2025"
+    },
+    {
       "title": "AmeriFreight Enclosed Auto Transport: Premium Car Shipping in 2025",
       "text": "Explore AmeriFreight’s enclosed auto transport services in 2025 for luxury, classic, and exotic cars, offering top-tier protection and reliable delivery nationwide.",
       "date": "July 14, 2025",
@@ -99,6 +107,14 @@
   ],
   "analyses": [
     {
+      "title": "Experience Nashville’s Music Scene Like a Local in 2025",
+      "text": "Dive into Nashville’s vibrant music scene in 2025 with Nashville Experience Tours. Discover iconic venues, hidden gems, and local tips for an authentic Music City adventure.",
+      "date": "July 15, 2025",
+      "author": "Lucas Bennett",
+      "image": "/assets/images/nashville-music-scene-2025.jpeg",
+      "link": "/analysis/nashville-music-scene-2025"
+    },
+    {
       "title": "AmeriFreight No Upfront Payment Auto Transport: Flexible Solutions in 2025",
       "text": "Discover AmeriFreight’s no upfront payment auto transport solutions in 2025, offering flexible, cost-effective car shipping with trusted service nationwide.",
       "date": "July 14, 2025",
@@ -156,6 +172,14 @@
     }
   ],
   "solutions": [
+    {
+      "title": "A Tour of Nashville’s Best Museums in 2025",
+      "text": "Discover Nashville’s top museums in 2025 with Nashville Experience Tours, from the Country Music Hall of Fame to the National Museum of African American Music.",
+      "date": "July 15, 2025",
+      "author": "Maya Thompson",
+      "image": "/assets/images/nashville-museums-tour-2025.jpeg",
+      "link": "/solutions/nashville-museums-tour-2025"
+    },
     {
       "title": "AmeriFreight Medical Personnel Discount: Supporting Healthcare Heroes in 2025",
       "text": "Discover AmeriFreight’s 2025 medical personnel discount for car shipping, offering reliable, affordable transport for doctors, nurses, and healthcare workers nationwide.",
