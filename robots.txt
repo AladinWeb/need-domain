@@ -3,4 +3,5 @@ Disallow: /assets/data/
 Disallow: /assets/images/
 Disallow: /assets/js/
 Disallow: /assets/css/
+Disallow: /404.html
 Sitemap: https://luckshots.com/sitemap.xml
