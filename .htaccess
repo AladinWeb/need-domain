@@ -2,14 +2,14 @@
 RewriteEngine On
 RewriteBase /
 
-# Internally rewrite to .html if it exists
+# If the request is NOT a directory or file, but a .html version exists, rewrite internally
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.*)$ $1.html [L]
 
-# Otherwise, redirect to homepage
+# If no file, no directory, and no .html version exists, redirect to homepage
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME}.html !-f
-RewriteRule ^.*$ / [L,R=301]
+RewriteRule ^.*$ / [R=301,L]
