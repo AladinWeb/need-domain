@@ -1,6 +1,14 @@
 {
   "blogs": [
     {
+      "title": "Worry vs. Normal Stress: Insights from MyndWorks Psychiatry in 2025",
+      "text": "Learn the difference between worry and normal stress in 2025 with MyndWorks Psychiatry. Understand symptoms, impacts, and when to seek help for better mental health.",
+      "date": "July 16, 2025",
+      "author": "Ivan Balcena",
+      "image": "/assets/images/myndworks-worry-vs-stress-2025.jpeg",
+      "link": "/blogs/myndworks-worry-vs-stress-2025"
+    },
+    {
       "title": "Best Towns Near Nashville for Your 2025 Adventure",
       "text": "Explore the best towns around Nashville in 2025 for your next adventure, from Franklin’s historic charm to Leiper’s Fork’s rustic appeal, with insights from Nashville Experience Tours.",
       "date": "July 15, 2025",
@@ -107,6 +115,14 @@
   ],
   "analyses": [
     {
+      "title": "MyndWorks Psychiatry: Genetic Testing for Personalized Medication in 2025",
+      "text": "Discover how MyndWorks Psychiatry uses genetic testing in 2025 to find the right mental health medications, offering personalized treatment for anxiety, depression, and more.",
+      "date": "July 16, 2025",
+      "author": "Ivan Balcena",
+      "image": "/assets/images/myndworks-genetic-testing-2025.jpeg",
+      "link": "/analysis/myndworks-genetic-testing-2025"
+    },
+    {
       "title": "Experience Nashville’s Music Scene Like a Local in 2025",
       "text": "Dive into Nashville’s vibrant music scene in 2025 with Nashville Experience Tours. Discover iconic venues, hidden gems, and local tips for an authentic Music City adventure.",
       "date": "July 15, 2025",
@@ -172,6 +188,14 @@
     }
   ],
   "solutions": [
+    {
+      "title": "MyndWorks Psychiatry Online Sessions: Accessible Mental Health Care in 2025",
+      "text": "Explore MyndWorks Psychiatry’s online therapy sessions in 2025, offering convenient, personalized mental health care for anxiety, depression, and more from the comfort of home.",
+      "date": "July 16, 2025",
+      "author": "Ivan Balcena",
+      "image": "/assets/images/myndworks-online-sessions-2025.jpeg",
+      "link": "/solutions/myndworks-online-sessions-2025"
+    },
     {
       "title": "A Tour of Nashville’s Best Museums in 2025",
       "text": "Discover Nashville’s top museums in 2025 with Nashville Experience Tours, from the Country Music Hall of Fame to the National Museum of African American Music.",
