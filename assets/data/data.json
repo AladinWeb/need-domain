@@ -1,6 +1,14 @@
 {
   "blogs": [
     {
+      "title": "Open Auto Transport with AmeriFreight: Your Guide to Hassle-Free Car Shipping<",
+      "text": "Explore AmeriFreight's open auto transport service for cost-effective and reliable vehicle shipping across the country.",
+      "date": "August 25, 2025",
+      "author": "Christian Keith",
+      "image": "/assets/images/amerifreight-open-auto-transport-service.webp",
+      "link": "/blogs/open-auto-transport-with-amerifreight"
+    },
+    {
       "title": "Exploring Slotscam Insights in 2025",
       "text": "Dive into the insights from Slotscam.website for online gambling trends and safety in the Philippines in 2025.",
       "date": "July 26, 2025",
@@ -135,14 +143,6 @@
       "author": "Ivan Balcena",
       "image": "/assets/images/the-mynd-works-way.webp",
       "link": "/blogs/the-mynd-works-way"
-    },
-    {
-      "title": "AmeriFreight Open Auto Transport Service",
-      "text": "Welcome to AmeriFreight's Open Auto Transport Service. These details govern your experience with our car shipping services.",
-      "date": "June 14, 2025",
-      "author": "Christian Keith",
-      "image": "/assets/images/amerifreight-open-auto-transport-service.webp",
-      "link": "/blogs/open-auto-transport-with-amerifreight"
     }
   ],
   "analyses": [
