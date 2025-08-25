@@ -5,3 +5,4 @@ Disallow: /assets/js/
 Disallow: /assets/css/
 Disallow: /404.html
 Sitemap: https://luckshots.com/sitemap.xml
+LLMS: https://luckshots.com/llms.txt
