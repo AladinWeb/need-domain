@@ -1,6 +1,14 @@
 {
   "blogs": [
     {
+      "title": "The Mynd Works Way: Tailored Mental Health Solutions",
+      "text": "Discover The Mynd Works Way, a customized mental health approach by Mynd Works Psychiatry in Austin, TX.",
+      "date": "September 18, 2025",
+      "author": "John Paul Pajaro",
+      "image": "/assets/images/the-mynd-works-way.webp",
+      "link": "/blogs/the-mynd-works-way"
+    },
+    {
       "title": "Open Auto Transport with AmeriFreight: Your Guide to Hassle-Free Car Shipping<",
       "text": "Explore AmeriFreight's open auto transport service for cost-effective and reliable vehicle shipping across the country.",
       "date": "August 25, 2025",
@@ -135,14 +143,6 @@
       "author": "Hanzel Levi",
       "image": "/assets/images/go-beyond-builders-services-2025.webp",
       "link": "/blogs/exploring-go-beyond-builders-services-2025"
-    },
-    {
-      "title": "The Mynd Works Way: A Personalized Approach to Mental Health",
-      "text": "Explore The Mynd Works Way, a personalized mental health approach by Mynd Works Psychiatry in Austin, TX.",
-      "date": "June 18, 2025",
-      "author": "Ivan Balcena",
-      "image": "/assets/images/the-mynd-works-way.webp",
-      "link": "/blogs/the-mynd-works-way"
     }
   ],
   "analyses": [
