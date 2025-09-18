@@ -147,6 +147,14 @@
   ],
   "analyses": [
     {
+      "title": "2025 Efficiency Review: AmeriFreight's Open Auto Transport Services",
+      "text": "Explore the 2025 performance of AmeriFreight's open auto transport, highlighting reliability, costs, and customer satisfaction.",
+      "date": "September 18, 2025",
+      "author": "John Paul Pajaro",
+      "image": "/assets/images/amerifreight-open-auto-transport-efficiency-2025.webp",
+      "link": "/analysis/analyzing-amerifreight-open-auto-transport-efficiency-2025"
+    },
+    {
       "title": "Is Kelley Blue Book Accurate? Uncovering the Truth About Car Values",
       "text": "Explore the accuracy of Kelley Blue Book (KBB) car valuations, how KBB calculates values, its limitations, and better strategies for accurate car pricing in 2025.",
       "date": "August 20, 2025",
@@ -249,14 +257,6 @@
       "author": "Analyn Sy",
       "image": "/assets/images/mynd-works-psychiatry-approach-2025.webp",
       "link": "/analysis/analyzing-mynd-works-psychiatry-approach-2025"
-    },
-    {
-      "title": "Analyzing AmeriFreight's Open Auto Transport Efficiency in 2025",
-      "text": "Dive into an analysis of AmeriFreight's open auto transport efficiency in 2025, focusing on reliability, costs, and customer experiences.",
-      "date": "June 18, 2025",
-      "author": "Jennie Kim",
-      "image": "/assets/images/amerifreight-open-auto-transport-efficiency-2025.webp",
-      "link": "/analysis/analyzing-amerifreight-open-auto-transport-efficiency-2025"
     }
   ],
   "solutions": [
